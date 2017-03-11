@@ -25,6 +25,7 @@ export default class Welcome extends React.Component {
   }
 
   render() {
+    console.log('Welcome')
     return (
       <View style={this.styles.wrapper}>
         <Text style={this.styles.header}>Welcome to React Native Storybook</Text>
@@ -34,3 +35,5 @@ export default class Welcome extends React.Component {
     );
   }
 }
+
+Welcome.aaaaa='fffff'

@@ -16,7 +16,9 @@
     "babel-preset-react-native": "1.9.1",
     "jest": "19.0.2",
     "react-test-renderer": "15.4.2",
-    "@kadira/react-native-storybook": "^2.0.0"
+    "@kadira/react-native-storybook": "^2.0.0",
+    "markdown-to-react-components":"^0.2.4",
+    "react-addons-create-fragment":"^15.4.2"
   },
   "jest": {
     "preset": "react-native"
